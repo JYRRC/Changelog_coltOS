@@ -1,19 +1,27 @@
-07/04/2023 
+23/04/2023 
 
-ColtOS reborn - UNOFFICIAL | Android 13
+ColtOS Cocktail - OFFICIAL | Android 13.1
 
 Build Gapps
+Build Vanilla
+
+Miuicamera its default
 
 Latest kernel Aghisna version
 LA.UM.9.1.r1-13000-SMxxx0.QSSIxxx
 Ln8000 Driver
+R11
 
 Update blobs from 
 LA.UM.9.1.r1-12900-SMxxx0.0
 Update blobs from sweet
 V14.0.2.0.TKFEUXM
 
+Fixed all modes miuicamera and Update.
+
 Update Codecs Audio One Plus 8.
+
+Espacial Sound códecs one plus 10.
 
 Support Variants Japan
 G,R,P,I And sweetin Nfc.
@@ -44,7 +52,7 @@ Credits:
 
 @RooGhz720 For Kernel Source.
 
-@Aryannn999 For Leica Camera.
+@Aryannn999 For MiuiCamera.
 
 @unmoved21 My brother.
 
